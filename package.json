@@ -1,0 +1,8 @@
+{
+  "name": "sfe-religions",
+  "version": "1.0.0",
+  "description": "Suffering-Focused Ethics Across World Religions",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
